@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 
 class PhotoPage extends StatelessWidget {
   const PhotoPage({super.key});
+
+  //static const agar tidak lupa dan typo
   static const nameRoute = '/photo_page';
 
   @override

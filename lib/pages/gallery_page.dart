@@ -3,6 +3,8 @@ import 'package:flutter_basic_20_routes/pages/photo_page.dart';
 
 class GalleryPage extends StatelessWidget {
   const GalleryPage({super.key});
+
+  //static const agar tidak lupa
   static const nameRoute = '/gallery_page';
 
   @override
